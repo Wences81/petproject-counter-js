@@ -44,3 +44,8 @@ body {
     padding: 6px;
     min-width: 65px;
 }
+
+.expired {
+    color: #222;
+    margin: 0 auto;
+}
